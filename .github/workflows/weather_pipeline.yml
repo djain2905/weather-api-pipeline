@@ -1,0 +1,35 @@
+name: Weather Pipeline
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 8 AM UTC daily
+  workflow_dispatch:        # allow manual runs from the Actions tab
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # needed to push the CSV back
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: python weather.py
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add weather_data.csv
+          git diff --staged --quiet || git commit -m "chore: update weather data $(date -u +%Y-%m-%d)"
+          git push
