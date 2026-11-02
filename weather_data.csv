@@ -1,61 +1,61 @@
 zip_code,city,region,date,max_temp_f,min_temp_f,condition
-90045,Los Angeles,California,2026-11-01,69.0,61.5,Sunny
-90045,Los Angeles,California,2026-11-02,71.0,57.8,Sunny
-90045,Los Angeles,California,2026-11-03,71.3,59.3,Sunny
-10001,New York,New York,2026-11-01,60.2,45.3,Overcast
-10001,New York,New York,2026-11-02,65.2,48.2,Partly Cloudy
-10001,New York,New York,2026-11-03,66.7,49.9,Sunny
-60601,Chicago,Illinois,2026-11-01,62.2,56.0,Overcast
-60601,Chicago,Illinois,2026-11-02,62.6,56.8,Patchy rain nearby
-60601,Chicago,Illinois,2026-11-03,68.5,60.2,Patchy rain nearby
-98101,Seattle,Washington,2026-11-01,54.0,41.6,Sunny
-98101,Seattle,Washington,2026-11-02,52.7,38.9,Overcast
-98101,Seattle,Washington,2026-11-03,56.5,45.8,Overcast
-33101,Miami,Florida,2026-11-01,81.8,76.3,Light rain shower
-33101,Miami,Florida,2026-11-02,81.8,75.1,Patchy rain nearby
-33101,Miami,Florida,2026-11-03,83.2,76.7,Patchy rain nearby
-77001,Houston,Texas,2026-11-01,86.1,70.2,Overcast
-77001,Houston,Texas,2026-11-02,83.8,70.2,Overcast
-77001,Houston,Texas,2026-11-03,84.8,72.0,Patchy rain nearby
-85001,Phoenix,Arizona,2026-11-01,71.9,64.9,Light rain shower
-85001,Phoenix,Arizona,2026-11-02,71.6,59.1,Sunny
-85001,Phoenix,Arizona,2026-11-03,76.6,59.1,Sunny
-19101,Philadelphia,Pennsylvania,2026-11-01,61.4,44.5,Overcast
-19101,Philadelphia,Pennsylvania,2026-11-02,65.1,45.5,Sunny
-19101,Philadelphia,Pennsylvania,2026-11-03,68.1,47.3,Sunny
-78201,San Antonio,Texas,2026-11-01,82.2,67.4,Overcast
-78201,San Antonio,Texas,2026-11-02,84.0,68.3,Overcast
-78201,San Antonio,Texas,2026-11-03,79.4,63.5,Sunny
-92101,San Diego,California,2026-11-01,69.3,62.9,Patchy rain nearby
-92101,San Diego,California,2026-11-02,69.9,60.7,Sunny
-92101,San Diego,California,2026-11-03,71.7,62.2,Sunny
-75201,Dallas,Texas,2026-11-01,81.9,66.4,Overcast
-75201,Dallas,Texas,2026-11-02,87.8,68.5,Overcast
-75201,Dallas,Texas,2026-11-03,74.5,65.0,Sunny
-95101,San Jose,California,2026-11-01,63.9,45.8,Sunny
-95101,San Jose,California,2026-11-02,68.0,44.4,Overcast
-95101,San Jose,California,2026-11-03,67.0,47.7,Sunny
-78701,Austin,Texas,2026-11-01,86.7,65.1,Overcast
-78701,Austin,Texas,2026-11-02,87.6,67.7,Overcast
-78701,Austin,Texas,2026-11-03,78.8,65.5,Overcast
-32099,Jacksonville,Florida,2026-11-01,80.2,71.6,Patchy rain nearby
-32099,Jacksonville,Florida,2026-11-02,79.6,69.8,Light rain shower
-32099,Jacksonville,Florida,2026-11-03,80.9,69.6,Patchy rain nearby
-76001,Arlington,Texas,2026-11-01,81.5,66.7,Overcast
-76001,Arlington,Texas,2026-11-02,87.2,69.0,Overcast
-76001,Arlington,Texas,2026-11-03,73.8,64.5,Sunny
-43085,Columbus,Ohio,2026-11-01,70.7,52.7,Overcast
-43085,Columbus,Ohio,2026-11-02,63.7,54.8,Overcast
-43085,Columbus,Ohio,2026-11-03,74.9,56.2,Sunny
-28201,Charlotte,North Carolina,2026-11-01,68.3,54.5,Overcast
-28201,Charlotte,North Carolina,2026-11-02,67.4,53.3,Overcast
-28201,Charlotte,North Carolina,2026-11-03,74.4,50.5,Sunny
-46201,Indianapolis,Indiana,2026-11-01,67.9,57.9,Overcast
-46201,Indianapolis,Indiana,2026-11-02,61.3,56.1,Overcast
-46201,Indianapolis,Indiana,2026-11-03,76.1,59.0,Overcast
-94102,San Francisco,California,2026-11-01,60.7,53.3,Sunny
-94102,San Francisco,California,2026-11-02,61.3,55.0,Overcast
-94102,San Francisco,California,2026-11-03,62.0,56.2,Sunny
-98004,Bellevue,Washington,2026-11-01,54.2,40.0,Sunny
-98004,Bellevue,Washington,2026-11-02,52.9,37.2,Overcast
-98004,Bellevue,Washington,2026-11-03,56.8,44.0,Overcast
+90045,Los Angeles,California,2026-11-02,71.7,57.3,Sunny
+90045,Los Angeles,California,2026-11-03,72.2,60.1,Sunny
+90045,Los Angeles,California,2026-11-04,72.1,59.0,Sunny
+10001,New York,New York,2026-11-02,65.4,48.5,Sunny
+10001,New York,New York,2026-11-03,66.9,50.0,Sunny
+10001,New York,New York,2026-11-04,69.3,53.6,Sunny
+60601,Chicago,Illinois,2026-11-02,62.7,56.3,Overcast
+60601,Chicago,Illinois,2026-11-03,68.2,61.9,Overcast
+60601,Chicago,Illinois,2026-11-04,64.6,55.4,Patchy rain nearby
+98101,Seattle,Washington,2026-11-02,54.0,38.7,Overcast
+98101,Seattle,Washington,2026-11-03,56.1,44.7,Overcast
+98101,Seattle,Washington,2026-11-04,56.2,41.1,Smoky haze
+33101,Miami,Florida,2026-11-02,82.1,76.7,Light rain shower
+33101,Miami,Florida,2026-11-03,82.9,76.8,Patchy rain nearby
+33101,Miami,Florida,2026-11-04,82.7,77.6,Patchy rain nearby
+77001,Houston,Texas,2026-11-02,87.1,72.0,Overcast
+77001,Houston,Texas,2026-11-03,85.5,72.5,Patchy rain nearby
+77001,Houston,Texas,2026-11-04,80.3,62.4,Sunny
+85001,Phoenix,Arizona,2026-11-02,72.1,59.2,Sunny
+85001,Phoenix,Arizona,2026-11-03,77.2,58.8,Sunny
+85001,Phoenix,Arizona,2026-11-04,77.6,59.6,Sunny
+19101,Philadelphia,Pennsylvania,2026-11-02,65.1,46.0,Sunny
+19101,Philadelphia,Pennsylvania,2026-11-03,68.1,47.4,Sunny
+19101,Philadelphia,Pennsylvania,2026-11-04,72.7,51.6,Sunny
+78201,San Antonio,Texas,2026-11-02,85.5,68.7,Sunny
+78201,San Antonio,Texas,2026-11-03,79.2,63.1,Sunny
+78201,San Antonio,Texas,2026-11-04,76.7,57.6,Sunny
+92101,San Diego,California,2026-11-02,69.8,60.9,Sunny
+92101,San Diego,California,2026-11-03,71.9,62.5,Sunny
+92101,San Diego,California,2026-11-04,70.9,64.4,Sunny
+75201,Dallas,Texas,2026-11-02,88.1,68.1,Overcast
+75201,Dallas,Texas,2026-11-03,73.7,63.9,Sunny
+75201,Dallas,Texas,2026-11-04,72.6,57.2,Overcast
+95101,San Jose,California,2026-11-02,68.5,47.1,Overcast
+95101,San Jose,California,2026-11-03,62.8,48.1,Patchy rain nearby
+95101,San Jose,California,2026-11-04,67.8,46.9,Sunny
+78701,Austin,Texas,2026-11-02,86.6,68.4,Sunny
+78701,Austin,Texas,2026-11-03,79.4,65.4,Sunny
+78701,Austin,Texas,2026-11-04,78.0,58.6,Sunny
+32099,Jacksonville,Florida,2026-11-02,79.9,70.2,Light rain shower
+32099,Jacksonville,Florida,2026-11-03,82.3,70.6,Patchy rain nearby
+32099,Jacksonville,Florida,2026-11-04,82.7,70.5,Partly Cloudy
+76001,Arlington,Texas,2026-11-02,87.3,68.9,Overcast
+76001,Arlington,Texas,2026-11-03,73.5,64.1,Sunny
+76001,Arlington,Texas,2026-11-04,73.1,57.6,Overcast
+43085,Columbus,Ohio,2026-11-02,63.0,54.9,Patchy rain nearby
+43085,Columbus,Ohio,2026-11-03,74.0,54.5,Sunny
+43085,Columbus,Ohio,2026-11-04,64.4,59.0,Patchy rain nearby
+28201,Charlotte,North Carolina,2026-11-02,70.6,54.3,Sunny
+28201,Charlotte,North Carolina,2026-11-03,74.6,51.9,Sunny
+28201,Charlotte,North Carolina,2026-11-04,74.6,57.1,Patchy rain nearby
+46201,Indianapolis,Indiana,2026-11-02,61.6,56.0,Overcast
+46201,Indianapolis,Indiana,2026-11-03,73.2,60.2,Overcast
+46201,Indianapolis,Indiana,2026-11-04,69.1,56.6,Patchy rain nearby
+94102,San Francisco,California,2026-11-02,62.8,55.6,Overcast
+94102,San Francisco,California,2026-11-03,62.5,57.0,Light rain shower
+94102,San Francisco,California,2026-11-04,62.5,55.7,Sunny
+98004,Bellevue,Washington,2026-11-02,54.3,36.8,Overcast
+98004,Bellevue,Washington,2026-11-03,57.0,44.2,Overcast
+98004,Bellevue,Washington,2026-11-04,56.9,39.8,Overcast
